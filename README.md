@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋, I’m Zevik ! 
+<a href=https://www.facebook.com/thienphu0602/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
+<img src="https://github-readme-stats.vercel.app/api?username=zevik7&theme=gotham&show_icons=true&count_private=true">
+# Language Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevik7&theme=gotham&layout=&langs_count=3">
 <!--
 **zevik7/zevik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
