@@ -15,7 +15,7 @@ I'm a final-year student in Can Tho University. I’m currently learning ReactJS
 <img src="https://github-readme-stats.vercel.app/api?username=zevik7&theme=gotham&show_icons=true&count_private=true">
 
 ## Language Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevik7&theme=gotham&layout=&langs_count=3">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevik7&theme=gotham&layout=&langs_count=5">
 <!--
 **zevik7/zevik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
