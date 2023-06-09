@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
  </a>
  
-I'm a final-year student in Can Tho University. I’m currently learning ReactJS, NodeJS. My goal is to become a full-stack developer.
+Hello there, I'm simply a person that enjoys problem solving and learning new things. My Vietnamese name implies "gifted person," however this is not my situation; I'm simply an ordinary man seeking for new challenges.
 
 ## Web Front-end:
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
